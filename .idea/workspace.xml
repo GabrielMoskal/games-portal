@@ -5,39 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cbbb77f-d43b-4f44-81ce-de3de9f7703b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/eureka-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/src/main/java/gab/EurekaServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/src/test/java/gab/EurekaServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games-portal/games-web/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games-portal/games-web/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games-portal/games-web/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games-portal/games-web/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games-portal/games-web/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games-portal/games-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games-portal/games-web/src/main/java/gab/GamesWebApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games-portal/games-web/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games-portal/games-web/src/test/java/gab/GamesWebApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games-portal/games/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games-portal/games/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games-portal/games/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games-portal/games/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games-portal/games/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games-portal/games/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games-portal/games/src/main/java/gab/GamesApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games-portal/games/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games-portal/games/src/test/java/gab/GamesApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games-portal/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games-portal/games-web/src/main/java/gab/controller/PlatformController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games-portal/games-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/games-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games-portal/games-web/src/main/java/gab/GamesWebApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games-portal/games-web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/games-web/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games-portal/games/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/games/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games-portal/games/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/games/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games-portal/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,25 +49,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/Gabriel/Desktop/Nauka Java/Projects/games-portal/games-portal/games",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "spring.configuration.checksum": "1b02794b1ae413e3eafe4e2f3af5efa4"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gabriel/Desktop/Nauka Java/Projects/games-portal/games-portal/games&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;880567f7f862879cae80bc2115a9af93&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Gabriel\Desktop\Nauka Java\Projects\games-portal\games-portal\games\src\main\resources" />
@@ -160,14 +149,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GamesWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <option name="ACTIVE_PROFILES" />
-      <module name="games-web" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="gab.GamesWebApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -190,7 +171,6 @@
       <item itemvalue="Application.GamesApplication" />
       <item itemvalue="JUnit.GamesApplicationTests" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
-      <item itemvalue="Spring Boot.GamesWebApplication" />
       <item itemvalue="Spring Boot.GamesApplication" />
     </list>
     <recent_temporary>
@@ -214,8 +194,18 @@
       <workItem from="1663246601505" duration="224000" />
       <workItem from="1663246833480" duration="1781000" />
       <workItem from="1663308869454" duration="87000" />
-      <workItem from="1663308971465" duration="4044000" />
+      <workItem from="1663308971465" duration="4771000" />
+      <workItem from="1663416358927" duration="2886000" />
+      <workItem from="1663424558453" duration="1700000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1663313317921</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663313317921</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,5 +213,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
