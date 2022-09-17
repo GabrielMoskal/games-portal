@@ -4,3 +4,17 @@ spring:
 
 server:
   port: 0
+
+management:
+  info:
+    env:
+      enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+info:
+  author:
+    name: Gabriel
+    email: example@email.com
