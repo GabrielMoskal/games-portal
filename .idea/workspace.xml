@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cbbb77f-d43b-4f44-81ce-de3de9f7703b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/games-portal/games-web/src/main/java/gab/controller/PlatformController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games-portal/games-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/games-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games-portal/games-web/src/main/java/gab/GamesWebApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games-portal/games-web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/games-web/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/games-portal/games/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/games/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games-portal/games/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/games/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games-portal/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games-portal/games/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/games/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +189,7 @@
       <workItem from="1663308869454" duration="87000" />
       <workItem from="1663308971465" duration="4771000" />
       <workItem from="1663416358927" duration="2886000" />
-      <workItem from="1663424558453" duration="1700000" />
+      <workItem from="1663424558453" duration="3161000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1663313317921</created>
@@ -205,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663313317921</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Further configuration added">
+      <created>1663426601273</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663426601273</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,6 +214,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Further configuration added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Further configuration added" />
   </component>
 </project>
