@@ -1,9 +1,16 @@
 spring:
   application:
     name: games-portal
+  data:
+    rest:
+      base-path: /data-api
 
 server:
   port: 0
+  servlet:
+    encoding:
+      charset: UTF-8
+      force: true
 
 management:
   info:
