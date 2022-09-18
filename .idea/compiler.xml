@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="games" />
+        <module name="games-data" />
         <module name="admin-server" />
         <module name="eureka-server" />
         <module name="games-web" />
@@ -23,6 +24,7 @@
       <module name="admin-server" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
       <module name="games" options="-parameters" />
+      <module name="games-data" options="-parameters" />
       <module name="games-web" options="-parameters" />
       <module name="test" options="-parameters" />
       <module name="test2" options="-parameters" />

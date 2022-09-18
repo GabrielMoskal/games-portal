@@ -5,19 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cbbb77f-d43b-4f44-81ce-de3de9f7703b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/admin-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-server/src/main/java/gab/AdminServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-server/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-server/src/test/java/gab/AdminServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games-portal/games-data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games-portal/games-data/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games-portal/games-data/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games-portal/games-data/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games-portal/games-data/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games-portal/games-data/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games-portal/games-data/src/main/java/gab/games/model/Platform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games-portal/games-data/src/main/java/gab/games/repository/PlatformRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games-portal/games-data/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games-portal/games-data/src/main/resources/schema_game.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games-portal/games-data/src/test/java/gab/games/model/PlatformTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games-portal/games-data/src/test/java/gab/games/util/EntityValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games-portal/games-data/src/test/java/gab/games/util/GenericWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games-portal/games-web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/games-web/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games-portal/games/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/games/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games-portal/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,12 +37,29 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -65,19 +92,22 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/Gabriel/Desktop/Nauka Java/Projects/games-portal/games-portal/games",
+    "last_opened_file_path": "C:/Users/Gabriel/Desktop/Nauka Java/Projects/games-portal/games-portal/games-data/src/test/java/gab/games/util",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "spring.configuration.checksum": "880567f7f862879cae80bc2115a9af93"
+    "spring.configuration.checksum": "86480bf1a085b194b5912ef5bed333ff"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gabriel\Desktop\Nauka Java\Projects\games-portal\games-portal\games-data\src\test\java\gab\games\util" />
+      <recent name="C:\Users\Gabriel\Desktop\Nauka Java\Projects\games-portal\games-portal\games-data\src\main\resources" />
       <recent name="C:\Users\Gabriel\Desktop\Nauka Java\Projects\games-portal\games-portal\games\src\main\resources" />
       <recent name="C:\Users\Gabriel\Desktop\Nauka Java\Projects\games-portal\games-app" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gab.games.model" />
       <recent name="gab" />
     </key>
   </component>
@@ -88,7 +118,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.AdminServerApplication">
+  <component name="RunManager" selected="JUnit.All in games-data">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -111,6 +141,15 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in games-data" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="games-data" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -139,6 +178,7 @@
       </method>
     </configuration>
     <configuration name="AdminServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
       <module name="admin-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="gab.AdminServerApplication" />
       <method v="2">
@@ -180,6 +220,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.GamesApplication" />
+      <item itemvalue="JUnit.All in games-data" />
       <item itemvalue="JUnit.GamesApplicationTests" />
       <item itemvalue="Spring Boot.AdminServerApplication" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
@@ -187,6 +228,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in games-data" />
         <item itemvalue="JUnit.GamesApplicationTests" />
         <item itemvalue="Application.GamesApplication" />
       </list>
@@ -208,7 +250,9 @@
       <workItem from="1663308869454" duration="87000" />
       <workItem from="1663308971465" duration="4771000" />
       <workItem from="1663416358927" duration="2886000" />
-      <workItem from="1663424558453" duration="4667000" />
+      <workItem from="1663424558453" duration="4793000" />
+      <workItem from="1663491539003" duration="789000" />
+      <workItem from="1663504654339" duration="3406000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1663313317921</created>
@@ -238,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663428033105</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Admin server added">
+      <created>1663429540694</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663429540694</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +300,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Further configuration added" />
     <MESSAGE value="Actuator added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actuator added" />
+    <MESSAGE value="Admin server added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Admin server added" />
   </component>
 </project>
