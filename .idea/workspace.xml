@@ -6,9 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="6cbbb77f-d43b-4f44-81ce-de3de9f7703b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games-portal/games-data/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/games-data/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games-portal/games-web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/games-web/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games-portal/games/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/games/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games-portal/games-data/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/games-data/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games-portal/games-data/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/games-data/src/main/resources/data.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games-portal/games-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/games-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games-portal/games-web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/games-web/src/main/resources/web.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games-portal/games/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/games/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games-portal/games/src/main/java/gab/GamesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/games/src/main/java/gab/GamesApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games-portal/games/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/games-portal/games/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +42,7 @@
       <map>
         <entry key="com.haulmont.jpb.jpaInspector" value="false" />
         <entry key="com.haulmont.jpb.jpaPalette" value="false" />
-        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
       </map>
     </option>
   </component>
@@ -73,7 +77,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/Gabriel/Desktop/Nauka Java/Projects/games-portal/games-portal/games-data/src/test/java/gab/games/util",
+    "last_opened_file_path": "C:/Users/Gabriel/Desktop/Nauka Java/Projects/games-portal/games-portal/games/src/main/resources",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -82,9 +86,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gabriel\Desktop\Nauka Java\Projects\games-portal\games-portal\games\src\main\resources" />
       <recent name="C:\Users\Gabriel\Desktop\Nauka Java\Projects\games-portal\games-portal\games-data\src\test\java\gab\games\util" />
       <recent name="C:\Users\Gabriel\Desktop\Nauka Java\Projects\games-portal\games-portal\games-data\src\main\resources" />
-      <recent name="C:\Users\Gabriel\Desktop\Nauka Java\Projects\games-portal\games-portal\games\src\main\resources" />
       <recent name="C:\Users\Gabriel\Desktop\Nauka Java\Projects\games-portal\games-app" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -234,7 +238,8 @@
       <workItem from="1663424558453" duration="4793000" />
       <workItem from="1663491539003" duration="789000" />
       <workItem from="1663504654339" duration="6394000" />
-      <workItem from="1663511984438" duration="604000" />
+      <workItem from="1663511984438" duration="4669000" />
+      <workItem from="1664027921065" duration="7699000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1663313317921</created>
@@ -278,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663508281491</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="configured data-rest base path">
+      <created>1663512750631</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663512750631</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,6 +303,17 @@
     <MESSAGE value="Actuator added" />
     <MESSAGE value="Admin server added" />
     <MESSAGE value="games-data module added" />
-    <option name="LAST_COMMIT_MESSAGE" value="games-data module added" />
+    <MESSAGE value="configured data-rest base path" />
+    <option name="LAST_COMMIT_MESSAGE" value="configured data-rest base path" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.IllegalStateException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
